@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">猜數字(三次內)</string>
+    <string name="action_settings">設定</string>
+    <string name="please_enter_number_1_10">請輸入數字(1~10)</string>
+    <string name="smaller">小一點</string>
+    <string name="bigger">大一點</string>
+    <string name="yes_you_got_it">"超神的! 數字就是 "</string>
+    <string name="dialog_title">提示訊息</string>
+    <string name="ok">確認</string>
+    <string name="cancel">取消</string>
+    <string name="replay_game">重玩遊戲</string>
+    <string name="are_you_sure">確定嗎?</string>
+    <string name="game_over">遊戲結束</string>
+    <string name="secret_number_is">"秘密數字是 "</string>
+</resources>
